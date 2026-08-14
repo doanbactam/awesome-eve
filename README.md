@@ -82,7 +82,7 @@ Official starting points from `vercel-labs`.
 Agents and projects built with eve. Open a PR to add yours.
 
 - [Agentcn](https://github.com/shadcn-labs/agentcn) — shadcn/ui, but for building agents. 🤖
-- [evex](https://evex.sh): The open registry for eve agents. Install any community agent with `npx shadcn@latest add @evex/<slug>`, preview every file before it lands, and publish your own by pull request.
+- [evex](https://evex.sh) — The open registry for eve agents. Install any community agent with `npx shadcn@latest add @evex/<slug>`, preview every file before it lands, and publish your own by pull request.
 - _Your project here — open a pull request!_
 
 ## Contributing
