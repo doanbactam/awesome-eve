@@ -49,6 +49,8 @@ Official starting points from `vercel-labs`.
 - [eve Slack Agent](https://vercel.com/templates/eve/eve-slack-agent) — Slack agent you can @mention.
 - [Personal Agent Template](https://github.com/vercel-labs/personal-agent-template) — Durable personal agent: web chat, Slack, Linear, long-term memory (Eve + Nuxt + Better Auth + Connect).
 - [Knowledge Agent Template](https://github.com/vercel-labs/knowledge-agent-template) — File-system knowledge agent using grep/find/cat — no embeddings, no vector DB.
+- [Eve software Factory Template](https://github.com/vercel-labs/eve-software-factory-template) - Meet Foreman, an eve Software Factory.
+- 
 
 ## Tutorials & Guides
 
