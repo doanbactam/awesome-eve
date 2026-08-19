@@ -70,6 +70,7 @@ Official starting points from `vercel-labs`.
 - [Vercel Releases Eve — MarkTechPost](https://www.marktechpost.com/2026/06/17/vercel-releases-eve/)
 - [Vercel Introduces Eve — InfoQ](https://www.infoq.com/news/2026/06/vercel-eve-agents/)
 - [Vercel debuts eve, fixes shadow AI with Passport — DevClass](https://www.devclass.com/devops/2026/06/23/vercel-debuts-eve-open-source-agent-framework-tries-to-fix-shadow-ai-with-passport/5260169)
+- [What Is the Vercel Eve Framework? — MindStudio](https://www.mindstudio.ai/blog/what-is-vercel-eve-framework-file-system-ai-agents)
 
 ## Videos
 
