@@ -2,6 +2,8 @@
 
 > A curated list of awesome resources for [eve](https://vercel.com/eve) — Vercel's filesystem-first framework for building, running, and scaling durable AI agents.
 
+**🤖🤖 GLM 5.2 free for eve agents through August 27 via Blackbox on AI Gateway**
+
 eve treats each agent as a directory of files: Markdown for instructions and skills, TypeScript for tools, with durable execution, sandboxed compute, human-in-the-loop approvals, subagents, and evals built in. Think "Next.js for agents." Released June 17, 2026 (Apache-2.0).
 
 *Not affiliated with Vercel. Community-maintained. Contributions welcome — see [Contributing](#contributing).*
