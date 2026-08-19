@@ -57,7 +57,6 @@ Official starting points from `vercel-labs`.
 ## Tutorials & Guides
 
 - [Build a Slack AI Agent with eve and Firecrawl](https://www.firecrawl.dev/blog/build-slack-ai-agent-eve) — Scaffold, add typed tools, deploy to Slack.
-- [Build Your First Agent with Vercel eve: A Step-by-Step Tutorial — Developers Digest](https://www.developersdigest.tech/blog/build-first-agent-vercel-eve-tutorial) — A hands-on, beginner-friendly walkthrough.
 - [Building Reviewable Mobile QA Agents with eve — Callstack](https://www.callstack.com/blog/building-reviewable-mobile-qa-agents-with-vercel-eve) — eve inside a CI workflow.
 - [Give Your eve Agent a Memory (NAMS + Neo4j)](https://lyonwj.com/blog/agent-memory-with-eve-and-nams) — Persist conversations as a context graph.
 - [How to Build and Deploy Anything with AI Agents — Developers Digest](https://www.developersdigest.tech/tutorials/eWs50bhFvMY) — Step-by-step eve walkthrough.
