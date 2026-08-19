@@ -57,20 +57,22 @@ Official starting points from `vercel-labs`.
 ## Tutorials & Guides
 
 - [Build a Slack AI Agent with eve and Firecrawl](https://www.firecrawl.dev/blog/build-slack-ai-agent-eve) — Scaffold, add typed tools, deploy to Slack.
-- [Give Your eve Agent a Memory (NAMS + Neo4j)](https://lyonwj.com/blog/agent-memory-with-eve-and-nams) — Persist conversations as a context graph.
-- [What we've built with eve so far — Roboto Studio](https://robotostudio.com/blog/building-agents-on-eve) — A real content-ops agent and lessons learned.
+- [Build Your First Agent with Vercel eve: A Step-by-Step Tutorial — Developers Digest](https://www.developersdigest.tech/blog/build-first-agent-vercel-eve-tutorial) — A hands-on, beginner-friendly walkthrough.
 - [Building Reviewable Mobile QA Agents with eve — Callstack](https://www.callstack.com/blog/building-reviewable-mobile-qa-agents-with-vercel-eve) — eve inside a CI workflow.
-- [How to Build Your First AI Agent with eve](https://pasqualepillitteri.it/en/news/5680/how-to-build-ai-agent-vercel-eve-guide) — Two files to start, then tools, skills, subagents, connections.
+- [Give Your eve Agent a Memory (NAMS + Neo4j)](https://lyonwj.com/blog/agent-memory-with-eve-and-nams) — Persist conversations as a context graph.
 - [How to Build and Deploy Anything with AI Agents — Developers Digest](https://www.developersdigest.tech/tutorials/eWs50bhFvMY) — Step-by-step eve walkthrough.
+- [How to Build Your First AI Agent with eve](https://pasqualepillitteri.it/en/news/5680/how-to-build-ai-agent-vercel-eve-guide) — Two files to start, then tools, skills, subagents, connections.
 - [Should You Build Your Next Agent on eve?](https://medium.com/@hamzamlwh/should-you-build-your-next-agent-on-vercels-eve-1c5bee591fbf) — An honest review of strengths and trade-offs.
+- [What we've built with eve so far — Roboto Studio](https://robotostudio.com/blog/building-agents-on-eve) — A real content-ops agent and lessons learned.
 
 ## Articles & Coverage
 
+- [Reviewing Vercel's eve agent framework — Zack Proser](https://zackproser.com/blog/reviewing-vercels-eve-agent-framework)
+- [Vercel debuts eve, fixes shadow AI with Passport — DevClass](https://www.devclass.com/devops/2026/06/23/vercel-debuts-eve-open-source-agent-framework-tries-to-fix-shadow-ai-with-passport/5260169)
+- [Vercel eve: an open framework for building AI agents — Flavio Copes](https://flaviocopes.com/vercel-eve/)
+- [Vercel Introduces Eve — InfoQ](https://www.infoq.com/news/2026/06/vercel-eve-agents/)
 - [Vercel launches eve — The New Stack](https://thenewstack.io/vercel-launches-eve-an-open-source-framework-that-treats-agents-as-directories/)
 - [Vercel Releases Eve — MarkTechPost](https://www.marktechpost.com/2026/06/17/vercel-releases-eve/)
-- [Vercel Introduces Eve — InfoQ](https://www.infoq.com/news/2026/06/vercel-eve-agents/)
-- [Vercel debuts eve, fixes shadow AI with Passport — DevClass](https://www.devclass.com/devops/2026/06/23/vercel-debuts-eve-open-source-agent-framework-tries-to-fix-shadow-ai-with-passport/5260169)
-- [What Is the Vercel Eve Framework? — MindStudio](https://www.mindstudio.ai/blog/what-is-vercel-eve-framework-file-system-ai-agents)
 
 ## Videos
 
