@@ -51,8 +51,12 @@ Official starting points from `vercel-labs`.
 - [eve Slack Agent](https://vercel.com/templates/eve/eve-slack-agent) — Slack agent you can @mention.
 - [Personal Agent Template](https://github.com/vercel-labs/personal-agent-template) — Durable personal agent: web chat, Slack, Linear, long-term memory (Eve + Nuxt + Better Auth + Connect).
 - [Knowledge Agent Template](https://github.com/vercel-labs/knowledge-agent-template) — File-system knowledge agent using grep/find/cat — no embeddings, no vector DB.
-- [Eve software Factory Template](https://github.com/vercel-labs/eve-software-factory-template) - Meet Foreman, an eve Software Factory.
-- 
+- [Eve software Factory Template](https://github.com/vercel-labs/eve-software-factory-template) — Meet Foreman, an eve Software Factory.
+- [eve LLM Council Template](https://github.com/vercel/eve-examples/tree/main/eve-llm-council-template) — Multi-model council that deliberates and synthesizes answers via subagents.
+- [eve Marketing Team](https://vercel.com/templates/eve/eve-marketing-team) — Team of marketing agents (lead + specialists) for Notion, Typefully, and Resend.
+- [eve Typefully Agent](https://vercel.com/templates/eve/eve-typefully-agent) — Slack social agent that drafts and schedules posts via Typefully.
+- [eve Sanity Copilot](https://vercel.com/templates/eve/eve-sanity-copilot) — Slack-based Sanity copilot for GROQ, schemas, and releases.
+- [eve GitHub Maintainer](https://vercel.com/templates/eve/eve-github-maintainer) — GitHub maintainer agent for issue digests, PR summaries, and @mentions.
 
 ## Tutorials & Guides
 
@@ -63,6 +67,10 @@ Official starting points from `vercel-labs`.
 - [How to Build Your First AI Agent with eve](https://pasqualepillitteri.it/en/news/5680/how-to-build-ai-agent-vercel-eve-guide) — Two files to start, then tools, skills, subagents, connections.
 - [How to Build and Deploy Anything with AI Agents — Developers Digest](https://www.developersdigest.tech/tutorials/eWs50bhFvMY) — Step-by-step eve walkthrough.
 - [Should You Build Your Next Agent on eve?](https://medium.com/@hamzamlwh/should-you-build-your-next-agent-on-vercels-eve-1c5bee591fbf) — An honest review of strengths and trade-offs.
+- [How to build a GitHub agent with eve and GitHub Tools](https://vercel.com/kb/guide/github-agent-eve) — Register typed GitHub tools, gate writes with approvals, reply to @mentions.
+- [Get started with Clerk and eve](https://clerk.com/docs/guides/ai/eve/getting-started) — Auth patterns for channels, tools, M2M, and instructions with Clerk.
+- [How to build a browser agent that works behind a login](https://vercel.com/kb/guide/build-a-browser-agent) — Browser agent with managed auth and human-in-the-loop sign-in.
+- [How to use subagents with eve](https://vercel.com/kb/eve) — Subagent patterns, isolation, and delegation.
 
 ## Articles & Coverage
 
