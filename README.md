@@ -59,6 +59,7 @@ Official starting points from `vercel-labs`.
 - [eve Sanity Copilot](https://vercel.com/templates/eve/eve-sanity-copilot) — Slack-based Sanity copilot for GROQ, schemas, and releases.
 - [eve GitHub Maintainer](https://vercel.com/templates/eve/eve-github-maintainer) — GitHub maintainer agent for issue digests, PR summaries, and @mentions.
 - [eve Browser Agent](https://vercel.com/templates/eve/eve-browser-agent) — Open-source eve agent that browses the real web with Browser Use cloud browser and live panel.
+- [eve SRE / Incident Response Template](https://github.com/vercel-labs/eve-sre-agent-template) — Slack SRE agent for hypothesis-driven production incident investigation with Datadog/GitHub/Vercel evidence.
 
 ## Tutorials & Guides
 
@@ -77,6 +78,8 @@ Official starting points from `vercel-labs`.
 - [Using Chat SDK and eve together](https://vercel.com/kb/guide/chat-sdk-and-eve) — How eve and Chat SDK divide responsibilities and bridge adapters.
 - [Give your eve agent a browser](https://vercel.com/changelog/give-your-eve-agent-a-browser) — Official changelog on the @agent-browser/eve extension for sandboxed browser tools.
 - [Build your first Slack agent with eve](https://vercel.com/kb/guide/eve-slack-agent-starter) — Deploy the minimal Slack agent template.
+- [Build an incident response sre agent with eve](https://vercel.com/kb/guide/eve-incident-sre-agent) — Official guide to deploy Slack SRE agent for production incident investigation.
+- [Give your eve agent an email inbox with Resend](https://vercel.com/kb/guide/eve-agent-with-resend) — Connect Chat SDK + Resend for durable email inboxes and threaded replies.
 
 ## Articles & Coverage
 
