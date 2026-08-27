@@ -25,6 +25,7 @@ eve treats each agent as a directory of files: Markdown for instructions and ski
 - [eve on GitHub](https://github.com/vercel/eve) — Source code, issues, and the canonical README.
 - [eve.dev](https://eve.dev) — Official site.
 - [Documentation](https://eve.dev/docs/introduction) — Getting started and concepts.
+- [Skills](https://eve.dev/docs/skills) — Official docs for markdown skills and `eve registry` `@skills`.
 - [Vercel Docs: eve](https://vercel.com/docs/eve) — Official documentation for deploying and running eve on Vercel.
 - [First Agent Tutorial](https://eve.dev/docs/tutorial/first-agent) — Build a complete agent end-to-end.
 - [Introducing eve (blog)](https://vercel.com/blog/introducing-eve) — The official launch announcement.
@@ -74,9 +75,13 @@ Official starting points from `vercel-labs`.
 - [Get started with Clerk and eve](https://clerk.com/docs/guides/ai/eve/getting-started) — Auth patterns for channels, tools, M2M, and instructions with Clerk.
 - [How to build a browser agent that works behind a login](https://vercel.com/kb/guide/build-a-browser-agent) — Browser agent with managed auth and human-in-the-loop sign-in.
 - [How to use subagents with eve](https://vercel.com/kb/eve) — Subagent patterns, isolation, and delegation.
+- [How to protect your eve agent from prompt injection with Arcjet](https://vercel.com/kb/guide/eve-agent-prompt-injection) — Screen tool results and Slack messages with Arcjet Guards before they reach the model.
 - [Building Agents with eve](https://vercel.com/academy/building-agents-with-eve) — Official Vercel Academy course: production bike-shop dispatcher with tools, state, approvals, Slack, deploy.
 - [Using Chat SDK and eve together](https://vercel.com/kb/guide/chat-sdk-and-eve) — How eve and Chat SDK divide responsibilities and bridge adapters.
 - [Give your eve agent a browser](https://vercel.com/changelog/give-your-eve-agent-a-browser) — Official changelog on the @agent-browser/eve extension for sandboxed browser tools.
+- [eve Agent Observability](https://vercel.com/changelog/eve-agent-observability) — Trace model calls, tools, errors, and token usage in Vercel Observability.
+- [eve Slack event hooks and session controls](https://vercel.com/changelog/eve-adds-new-slack-event-hooks-and-session-controls) — Reply in threads without re-mentions; cancel or reset sessions.
+- [iMessage support for eve agents](https://vercel.com/changelog/imessage-support-for-eve-agents) — Official Photon/iMessage channel via Vercel Connect.
 - [Build your first Slack agent with eve](https://vercel.com/kb/guide/eve-slack-agent-starter) — Deploy the minimal Slack agent template.
 - [Build an incident response sre agent with eve](https://vercel.com/kb/guide/eve-incident-sre-agent) — Official guide to deploy Slack SRE agent for production incident investigation.
 - [Give your eve agent an email inbox with Resend](https://vercel.com/kb/guide/eve-agent-with-resend) — Connect Chat SDK + Resend for durable email inboxes and threaded replies.
@@ -88,6 +93,7 @@ Official starting points from `vercel-labs`.
 - [Vercel Introduces Eve — InfoQ](https://www.infoq.com/news/2026/06/vercel-eve-agents/)
 - [Vercel debuts eve, fixes shadow AI with Passport — DevClass](https://www.devclass.com/devops/2026/06/23/vercel-debuts-eve-open-source-agent-framework-tries-to-fix-shadow-ai-with-passport/5260169)
 - [Vercel Eve vs Vercel AI SDK (2026)](https://www.cipherprojects.com/blog/posts/vercel-eve-vs-vercel-ai-sdk-2026/) — Clear comparison of Eve as durable agent framework versus AI SDK as application toolkit.
+- [How to use Vercel eve — LogRocket](https://blog.logrocket.com/vercel-eve-ai-agents/) — Scaffold, tools, and deploy a basic eve agent.
 
 ## Videos
 
@@ -95,6 +101,8 @@ Official starting points from `vercel-labs`.
 - [Can Eve Make AI Agents Easier to Build and Run? — Callstack livestream](https://www.callstack.com/events/can-eve-make-ai-agents-easier-to-build-and-run)
 - [eve: AI agents without the plumbing](https://www.youtube.com/watch?v=325V6ziaTmA) — Official Vercel short intro video.
 - [Build an Agent with Eve — Ship 26 NYC Workshop](https://www.youtube.com/watch?v=eD8pV7nSIxY) — Official Vercel workshop: scaffold, channels, tools, evals, architecture.
+- [This Completely Changes the Way We Build Production AI Agents (Cole Medin)](https://www.youtube.com/watch?v=m8VC2SV2igM) — Vercel-partnered walkthrough: folder-as-agent, analyst demo, deploy.
+- [Vercel Eve Changes How We Build AI Agents Forever (Sonny Sangha)](https://www.youtube.com/watch?v=5zLdVdOUxgE) — Agent Stack walkthrough with Pulse analyst on Slack, web, and TUI.
 
 ## Community
 
