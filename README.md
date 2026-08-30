@@ -27,6 +27,7 @@ eve treats each agent as a directory of files: Markdown for instructions and ski
 - [Documentation](https://eve.dev/docs/introduction) — Getting started and concepts.
 - [Skills](https://eve.dev/docs/skills) — Official docs for markdown skills and `eve registry` `@skills`.
 - [Vercel Docs: eve](https://vercel.com/docs/eve) — Official documentation for deploying and running eve on Vercel.
+- [eve Templates](https://vercel.com/templates/eve) — Official Vercel template catalog for eve agents.
 - [First Agent Tutorial](https://eve.dev/docs/tutorial/first-agent) — Build a complete agent end-to-end.
 - [Introducing eve (blog)](https://vercel.com/blog/introducing-eve) — The official launch announcement.
 - [eve landing page](https://vercel.com/eve) — Overview of features and primitives.
@@ -71,6 +72,7 @@ Official starting points from `vercel-labs`.
 - [How to Build Your First AI Agent with eve](https://pasqualepillitteri.it/en/news/5680/how-to-build-ai-agent-vercel-eve-guide) — Two files to start, then tools, skills, subagents, connections.
 - [How to Build and Deploy Anything with AI Agents — Developers Digest](https://www.developersdigest.tech/tutorials/eWs50bhFvMY) — Step-by-step eve walkthrough.
 - [Should You Build Your Next Agent on eve?](https://medium.com/@hamzamlwh/should-you-build-your-next-agent-on-vercels-eve-1c5bee591fbf) — An honest review of strengths and trade-offs.
+- [How to add tools to your eve agent](https://vercel.com/kb/guide/how-to-add-eve-tools) — Author TypeScript tools with `defineTool` and gate writes with `needsApproval`.
 - [How to build a GitHub agent with eve and GitHub Tools](https://vercel.com/kb/guide/github-agent-eve) — Register typed GitHub tools, gate writes with approvals, reply to @mentions.
 - [Get started with Clerk and eve](https://clerk.com/docs/guides/ai/eve/getting-started) — Auth patterns for channels, tools, M2M, and instructions with Clerk.
 - [How to build a browser agent that works behind a login](https://vercel.com/kb/guide/build-a-browser-agent) — Browser agent with managed auth and human-in-the-loop sign-in.
@@ -85,6 +87,7 @@ Official starting points from `vercel-labs`.
 - [Build your first Slack agent with eve](https://vercel.com/kb/guide/eve-slack-agent-starter) — Deploy the minimal Slack agent template.
 - [Build an incident response sre agent with eve](https://vercel.com/kb/guide/eve-incident-sre-agent) — Official guide to deploy Slack SRE agent for production incident investigation.
 - [Give your eve agent an email inbox with Resend](https://vercel.com/kb/guide/eve-agent-with-resend) — Connect Chat SDK + Resend for durable email inboxes and threaded replies.
+- [Self-host eve](https://eve.dev/docs/guides/deployment/self-hosting) — Run eve as a Node service with your own workflow storage and sandbox backend.
 
 ## Articles & Coverage
 
@@ -94,6 +97,7 @@ Official starting points from `vercel-labs`.
 - [Vercel debuts eve, fixes shadow AI with Passport — DevClass](https://www.devclass.com/devops/2026/06/23/vercel-debuts-eve-open-source-agent-framework-tries-to-fix-shadow-ai-with-passport/5260169)
 - [Vercel Eve vs Vercel AI SDK (2026)](https://www.cipherprojects.com/blog/posts/vercel-eve-vs-vercel-ai-sdk-2026/) — Clear comparison of Eve as durable agent framework versus AI SDK as application toolkit.
 - [How to use Vercel eve — LogRocket](https://blog.logrocket.com/vercel-eve-ai-agents/) — Scaffold, tools, and deploy a basic eve agent.
+- [What Is Vercel eve? — Muhammad Idrees](https://adrees.dev/blog/vercel-eve-agent-framework) — Filesystem-first layout, production primitives, and self-hosting.
 
 ## Videos
 
@@ -115,6 +119,8 @@ Agents and projects built with eve. Open a PR to add yours.
 
 - [Agentcn](https://github.com/shadcn-labs/agentcn) — shadcn/ui, but for building agents. 🤖
 - [evex](https://evex.sh) — The open registry for eve agents. Install any community agent with `npx shadcn@latest add @evex/{slug}`, preview every file before it lands, and publish your own by pull request.
+- [Steve](https://github.com/vercel-labs/steve) — Official self-hosted eve reference: Postgres workflows, Docker sandbox, Next.js chat.
+- [Ask HackerNews](https://github.com/upstash/eve-example) — eve + Upstash Redis Search agent over ~44M Hacker News items.
 - _Your project here — open a pull request!_
 
 ## Contributing
@@ -125,4 +131,4 @@ Contributions are welcome! Please read the [contribution guidelines](https://git
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, the contributors have waived all copyright and related neighboring rights to this work.
