@@ -26,6 +26,7 @@ eve treats each agent as a directory of files: Markdown for instructions and ski
 - [eve.dev](https://eve.dev) — Official site.
 - [Documentation](https://eve.dev/docs/introduction) — Getting started and concepts.
 - [Skills](https://eve.dev/docs/skills) — Official docs for markdown skills and `eve registry` `@skills`.
+- [eve Integrations](https://eve.dev/integrations) — Official catalog of channels, extensions, MCP connections, and memory providers.
 - [Vercel Docs: eve](https://vercel.com/docs/eve) — Official documentation for deploying and running eve on Vercel.
 - [eve Templates](https://vercel.com/templates/eve) — Official Vercel template catalog for eve agents.
 - [First Agent Tutorial](https://eve.dev/docs/tutorial/first-agent) — Build a complete agent end-to-end.
@@ -61,6 +62,7 @@ Official starting points from `vercel-labs`.
 - [eve Sanity Copilot](https://vercel.com/templates/eve/eve-sanity-copilot) — Slack-based Sanity copilot for GROQ, schemas, and releases.
 - [eve GitHub Maintainer](https://vercel.com/templates/eve/eve-github-maintainer) — GitHub maintainer agent for issue digests, PR summaries, and @mentions.
 - [eve Browser Agent](https://vercel.com/templates/eve/eve-browser-agent) — Open-source eve agent that browses the real web with Browser Use cloud browser and live panel.
+- [eve Design Template](https://github.com/vercel-labs/eve-design-template) — Slack design agent that answers from approved in-repo design guidelines.
 - [eve SRE / Incident Response Template](https://github.com/vercel-labs/eve-sre-agent-template) — Slack SRE agent for hypothesis-driven production incident investigation with Datadog/GitHub/Vercel evidence.
 
 ## Tutorials & Guides
@@ -73,6 +75,7 @@ Official starting points from `vercel-labs`.
 - [How to Build and Deploy Anything with AI Agents — Developers Digest](https://www.developersdigest.tech/tutorials/eWs50bhFvMY) — Step-by-step eve walkthrough.
 - [Should You Build Your Next Agent on eve?](https://medium.com/@hamzamlwh/should-you-build-your-next-agent-on-vercels-eve-1c5bee591fbf) — An honest review of strengths and trade-offs.
 - [How to add tools to your eve agent](https://vercel.com/kb/guide/how-to-add-eve-tools) — Author TypeScript tools with `defineTool` and gate writes with `needsApproval`.
+- [How to add skills to your eve agent](https://vercel.com/kb/guide/how-to-add-eve-skills) — Write skills under `agent/skills/` or install published skills with the CLI.
 - [How to build a GitHub agent with eve and GitHub Tools](https://vercel.com/kb/guide/github-agent-eve) — Register typed GitHub tools, gate writes with approvals, reply to @mentions.
 - [Get started with Clerk and eve](https://clerk.com/docs/guides/ai/eve/getting-started) — Auth patterns for channels, tools, M2M, and instructions with Clerk.
 - [How to build a browser agent that works behind a login](https://vercel.com/kb/guide/build-a-browser-agent) — Browser agent with managed auth and human-in-the-loop sign-in.
@@ -84,9 +87,13 @@ Official starting points from `vercel-labs`.
 - [eve Agent Observability](https://vercel.com/changelog/eve-agent-observability) — Trace model calls, tools, errors, and token usage in Vercel Observability.
 - [eve Slack event hooks and session controls](https://vercel.com/changelog/eve-adds-new-slack-event-hooks-and-session-controls) — Reply in threads without re-mentions; cancel or reset sessions.
 - [iMessage support for eve agents](https://vercel.com/changelog/imessage-support-for-eve-agents) — Official Photon/iMessage channel via Vercel Connect.
+- [Build and deploy eve agents from the Vercel dashboard](https://vercel.com/changelog/build-and-deploy-eve-agents-from-the-vercel-dashboard) — Scaffold, pick a model and channel, and deploy an agent from the dashboard.
+- [Discover and install eve integrations from the CLI](https://vercel.com/changelog/discover-and-install-eve-integrations-from-the-cli) — Install channels, extensions, and connections with `eve add` and `eve registry`.
 - [Build your first Slack agent with eve](https://vercel.com/kb/guide/eve-slack-agent-starter) — Deploy the minimal Slack agent template.
 - [Build an incident response sre agent with eve](https://vercel.com/kb/guide/eve-incident-sre-agent) — Official guide to deploy Slack SRE agent for production incident investigation.
 - [Give your eve agent an email inbox with Resend](https://vercel.com/kb/guide/eve-agent-with-resend) — Connect Chat SDK + Resend for durable email inboxes and threaded replies.
+- [Give your eve agent secure access to your private AWS RDS database](https://vercel.com/kb/guide/give-eve-agent-secure-access-to-aws-rds-database) — Reach private RDS with Secure Compute, VPC peering, and a read-only query tool.
+- [Draft documentation fixes from reader feedback with Sanity and eve](https://vercel.com/kb/guide/sanity-eve-agent) — Turn docs feedback into Sanity drafts and Slack review notices.
 - [Self-host eve](https://eve.dev/docs/guides/deployment/self-hosting) — Run eve as a Node service with your own workflow storage and sandbox backend.
 
 ## Articles & Coverage
@@ -121,6 +128,7 @@ Agents and projects built with eve. Open a PR to add yours.
 - [evex](https://evex.sh) — The open registry for eve agents. Install any community agent with `npx shadcn@latest add @evex/{slug}`, preview every file before it lands, and publish your own by pull request.
 - [Steve](https://github.com/vercel-labs/steve) — Official self-hosted eve reference: Postgres workflows, Docker sandbox, Next.js chat.
 - [Ask HackerNews](https://github.com/upstash/eve-example) — eve + Upstash Redis Search agent over ~44M Hacker News items.
+- [Sanity Docs Agent](https://github.com/sanity-labs/sanity-eve-docs-agent) — Docs-feedback agent that drafts Sanity fixes and notifies editors in Slack.
 - _Your project here — open a pull request!_
 
 ## Contributing
