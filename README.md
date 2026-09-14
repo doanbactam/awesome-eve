@@ -118,6 +118,7 @@ Official starting points from `vercel-labs`.
 Agents and projects built with eve. Open a PR to add yours.
 
 - [Agentcn](https://github.com/shadcn-labs/agentcn) — shadcn/ui, but for building agents. 🤖
+- [Eveland](https://github.com/evelandhq/eveland) — Self-hosted deployment and operations platform for eve agents, with Git imports, scheduling, and session and usage monitoring.
 - [evex](https://evex.sh) — The open registry for eve agents. Install any community agent with `npx shadcn@latest add @evex/{slug}`, preview every file before it lands, and publish your own by pull request.
 - [Steve](https://github.com/vercel-labs/steve) — Official self-hosted eve reference: Postgres workflows, Docker sandbox, Next.js chat.
 - [Ask HackerNews](https://github.com/upstash/eve-example) — eve + Upstash Redis Search agent over ~44M Hacker News items.
