@@ -121,6 +121,7 @@ Agents and projects built with eve. Open a PR to add yours.
 - [evex](https://evex.sh) — The open registry for eve agents. Install any community agent with `npx shadcn@latest add @evex/{slug}`, preview every file before it lands, and publish your own by pull request.
 - [Steve](https://github.com/vercel-labs/steve) — Official self-hosted eve reference: Postgres workflows, Docker sandbox, Next.js chat.
 - [Ask HackerNews](https://github.com/upstash/eve-example) — eve + Upstash Redis Search agent over ~44M Hacker News items.
+- [Yila AI](https://yila.ai) — Production academic research agent built on self-hosted eve + `@workflow/world-postgres` for grounded literature reviews, sandboxed data analysis, and editable manuscripts ([live examples](https://yila.ai/use-cases)).
 - _Your project here — open a pull request!_
 
 ## Contributing
